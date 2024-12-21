@@ -1,5 +1,6 @@
 SS;
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/6a36a225-260d-4f58-8ea3-bbf1def74c34" />
+![WhatsApp Image 2024-12-21 at 14 40 17_d48d2e23](https://github.com/user-attachments/assets/51168fdb-6fed-41f9-8155-ed322674f9b0)
+
 
 
 # StudyModeratorToken (SMT)
